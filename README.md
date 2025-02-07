@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leanhhuy
-- 👀 I’m interested in Web developer
+- 👀 I’m interested in Web developer , software engineer
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on fullstack
 - 📫 How to reach me: leanhhuy.it@gmail.com
